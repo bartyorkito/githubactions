@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	database.ConectaComBancoDeDados() // for commit
+	database.ConectaComBancoDeDados()
 	routes.HandleRequest()
 }
