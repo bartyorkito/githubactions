@@ -9,10 +9,10 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/gin-gonic/gin"
 	"github.com/alura-cursos/Curso_CI/controllers"
 	"github.com/alura-cursos/Curso_CI/database"
 	"github.com/alura-cursos/Curso_CI/models"
+	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"
 )
 
